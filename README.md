@@ -6,11 +6,11 @@
     <td style="border:none">
 				🎓 FEE Software Dev Student at <a href="https://turing.edu/" target="_blank">Turing</a>
 				<br>
-        🌱 Currently working on recipe application using ES6 JS and SASS
+        🌱 Currently collaborating on a  <a href=https://github.com/tonycarpenter21/whats-cookin-starter-kit" target="_blank">recipe application</a> using ES6 JS and SASS
 				<br>
         👩🏽‍💻 Former artist/server learning to work sitting down
 				<br>
-        💡 Excited about intuitive and playful UX/UI and generative art
+        💡 Excited about intuitive & playful UX/UI and generative art
       </ul>
     </td>
     <td style="border:none"><img height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=Gabby-Recny"></td>
