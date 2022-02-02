@@ -6,7 +6,7 @@
     <td style="border:none">
 				🎓 FEE Software Dev Student at <a href="https://turing.edu/" target="_blank">Turing</a>
 				<br>
-        🌱 Currently collaborating on a  <a href=https://github.com/tonycarpenter21/whats-cookin-starter-kit" target="_blank">recipe application</a> using ES6 JS and SASS
+        🌱 Currently collaborating on a  <a href=https://github.com/tonycarpenter21/whats-cookin-starter-kit" target="_blank">movie rating application</a> using React and Cypress for the first time.
 				<br>
         👩🏽‍💻 Former artist/server learning to work sitting down
 				<br>
@@ -35,6 +35,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+		
 
 ### Design
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
