@@ -6,7 +6,7 @@
     <td style="border:none">
 				🎓 FEE Software Dev Student at <a href="https://turing.edu/" target="_blank">Turing</a>
 				<br>
-        🌱 Currently collaborating on a  <a href=https://github.com/tonycarpenter21/whats-cookin-starter-kit" target="_blank">movie rating application</a> using React and Cypress for the first time.
+        🌱 Currently collaborating on a  <a href=https://github.com/jasmyn2244/rancid-tomatillos target="_blank">movie rating application</a> using React and Cypress for the first time.
 				<br>
         👩🏽‍💻 Former artist/server learning to work sitting down
 				<br>
