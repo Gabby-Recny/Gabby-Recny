@@ -6,7 +6,7 @@
     <td style="border:none">
 				🎓 FEE Software Dev Student at <a href="https://turing.edu/" target="_blank">Turing</a>
 				<br>
-        🌱 Currently collaborating on a  <a href=https://github.com/jasmyn2244/rancid-tomatillos target="_blank">movie rating application</a> using React and Cypress for the first time.
+        🌱 Currently collaborating on a  <a href=https://github.com/anewb87/kanye-mindfulness-app target="_blank">mindfulness app</a> to showcase newly learned React framework and Cypress library as well as Context API.
 				<br>
         👩🏽‍💻 Former artist/server learning to work sitting down
 				<br>
