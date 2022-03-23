@@ -6,7 +6,7 @@
     <td style="border:none">
 				🎓 FEE Software Dev Student at <a href="https://turing.edu/" target="_blank">Turing</a>
 				<br>
-        🌱 Currently collaborating on a  <a href=https://github.com/anewb87/kanye-mindfulness-app target="_blank">mindfulness app</a> to learn Context APIs and get a chance to play with React, Router and Cypress a bit more!
+        🌱 Currently collaborating with a full-stack team to build a  <a href=https://github.com/one-minute-writer target="_blank">writing app</a> using TypeScript and GraphQL for the first time. 
 				<br>
         👩🏽‍💻 Former artist/server learning to work sitting down
 				<br>
