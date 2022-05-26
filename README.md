@@ -4,9 +4,9 @@
 <table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:none">
-				🎓 FEE Software Dev Student at <a href="https://turing.edu/" target="_blank">Turing</a>
+				🎓 Front End Software Dev Alum from <a href="https://turing.edu/" target="_blank">Turing</a>
 				<br>
-        🌱 Currently collaborating with a full-stack team to build a  <a href=https://github.com/one-minute-writer target="_blank">writing app</a> using TypeScript and GraphQL for the first time. 
+        🌱 Currently reviewing GraphQL before start my first role!
 				<br>
         👩🏽‍💻 Former artist/server learning to work sitting down
 				<br>
