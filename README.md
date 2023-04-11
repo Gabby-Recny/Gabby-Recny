@@ -1,16 +1,19 @@
-<img width="902" alt="Screen Shot 2021-12-21 at 7 36 14 PM" src="https://user-images.githubusercontent.com/84749512/147015335-02156c80-8f4c-452a-b595-a65aa59d9b82.png">
+<img 
+ width="902" alt="Screenshot about the developer featuring the following information. Gabby Recny has they/them pronouns and knows an abundance of frontend programming including, but not limited to, JavaScript ES6, GraphQL, C#, TypeScript and CSS/SCSS. They're hobbies are surfing, photography, hiking, motorcycles, drawing, painting and scrolling the internet for dogs to adopt. Gabby speaks English and Spanish and they're life motto is 'Mess around and find out!'"   
+src="https://user-images.githubusercontent.com/84749512/231305986-aecf84f7-34f5-4e36-85cc-0907fa165fba.png"
+ />
 
 </table>
 <table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:none">
-				🎓 Front End Software Dev Alum from <a href="https://turing.edu/" target="_blank">Turing</a>
+				🎓 Front End Software Developer Alum from <a href="https://turing.edu/" target="_blank">Turing</a>
 				<br>
-        🌱 Currently reviewing GraphQL before start my first role!
+        🌱 Currently learning about AR technologies, working on a C# certificate and deepening understanding of accessibility
 				<br>
-        👩🏽‍💻 Former artist/server learning to work sitting down
+        👩🏽‍💻 Artist learning to work sitting down
 				<br>
-        💡 Excited about intuitive & playful UX/UI and generative art
+        💡 Excited about intuitive & playful UX/UI, generative art and AR projects!
       </ul>
     </td>
     <td style="border:none"><img height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=Gabby-Recny"></td>
@@ -40,6 +43,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 		
 
 ### Design
@@ -49,6 +53,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 ![Invision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Environment
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/gjtrecny1991)
