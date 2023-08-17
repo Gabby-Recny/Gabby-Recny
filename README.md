@@ -16,7 +16,6 @@ src="https://user-images.githubusercontent.com/84749512/231305986-aecf84f7-34f5-
         💡 Excited about intuitive & playful UX/UI, generative art and AR projects!
       </ul>
     </td>
-    <td style="border:none"><img height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=Gabby-Recny"></td>
   </tr>
 </table>
 
